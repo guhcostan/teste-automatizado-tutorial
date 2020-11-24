@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render 1`] = `
+<Button
+  disabled={false}
+  onClick={[MockFunction]}
+  text="Teste"
+>
+  <button
+    onClick={[MockFunction]}
+  >
+    Teste
+  </button>
+</Button>
+`;
